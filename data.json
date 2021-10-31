@@ -1,10 +1,26 @@
 [
     {
         "name":"Milan",
-        "age":"22"
+        "age":"22",
+        "branch":"Mca",
+        "redg":"2005106016"
     },
     {
         "name":"Tarun",
-        "age":"22"
+        "age":"22",
+        "branch":"Mca",
+        "redg":"2005106017"
+    },
+    {
+        "name":"Nayak",
+        "age":"22",
+        "branch":"Mca",
+        "redg":"2005106018"
+    },
+    {
+        "name":"Nayak",
+        "age":"22",
+        "branch":"B-tech",
+        "redg":"2005106019"
     }
 ]
